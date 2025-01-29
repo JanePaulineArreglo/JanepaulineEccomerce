@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756194319492",
+    "project_id": "janepaulineeccomerce",
+    "storage_bucket": "janepaulineeccomerce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756194319492:android:4dc595e24eab17a968f6d1",
+        "android_client_info": {
+          "package_name": "com.example.janepaulineeccomerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaw08XRse-RU7deXlaM48l3Z9_i4Puzdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

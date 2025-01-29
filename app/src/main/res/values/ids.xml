@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="addToCartButton" type="id" />
+    <item name="productsRecyclerView" type="id" />
+    <item name="cartFab" type="id" />
+</resources>
